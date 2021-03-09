@@ -33,7 +33,7 @@ GIF created with [ScreentoGif](https://www.screentogif.com/).
 
 ## Notes
 
-No challenges while building app! Haqd fun playing around with the login features!
+No challenges while building app! Had fun playing around with the login features!
 
 ## Open-source libraries used
 
