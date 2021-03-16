@@ -28,8 +28,7 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [x] List anything else that you can get done to improve the app functionality!
-      Updated the logout button to be an action button on the action bar
+- [x] Updated the logout button to be an action button on the action bar
       
 ## Video Walkthrough
 
